@@ -1,0 +1,10 @@
+/target/
+.classpath
+.project
+.settings
+.setting
+.bak
+/.settings/
+/bin/
+/.svn/
+*.bak
